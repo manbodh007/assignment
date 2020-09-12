@@ -1,4 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# project-setup 
+there is one api and a react.js UI to use the api, first open terminal and change directory to '/api' and install all dependencies using
+'npm install' command then to run api on the server run command 'npm start'
+
+To use this app come back to home directory and again run command 'npm install' after that run command 'npm start'
+when react.js is running then you can use this app.
+
 
 ## Available Scripts
 
